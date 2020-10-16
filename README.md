@@ -1,1 +1,1 @@
-his is Debra's first git project!
+This is Debra's first git project!
